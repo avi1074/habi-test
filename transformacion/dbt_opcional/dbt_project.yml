@@ -1,0 +1,7 @@
+name: habi_prueba
+version: "1.0"
+profile: habi_prueba
+models:
+  habi_prueba:
+    staging: {+materialized: view}
+    consumo: {+materialized: table}
