@@ -1,0 +1,11 @@
+pandas
+duckdb
+pyarrow
+lxml
+requests
+pytest
+# opcionales si usa dbt:
+# dbt-duckdb
+# si expone API u ofrece análisis:
+# fastapi
+# uvicorn
